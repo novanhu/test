@@ -51,6 +51,7 @@ public class ARJsonFileClass {
 	private String subjectSexInput;
 	private String expectedDataTypes;
 	private String sampleClass;
+	//add some change in develop branch to see if it change in feature branch
 	
 
 }
