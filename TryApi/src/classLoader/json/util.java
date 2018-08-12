@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class util {
+	//add change in 2018/8/12
 	
 	/*public static <T> String getResourceFilePath(Class<T> getClassObject, String fileName) {
 		String absoluteFile = "";
