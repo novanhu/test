@@ -5,5 +5,10 @@
 level 1: 重命名By ， 变量，以及抽取方法。 
 level 2: TBD
 
+<<<<<<< HEAD
 
 aaa 444 merge
+=======
+dsdsadasdsad
+ass add merge info
+>>>>>>> refs/heads/develop
